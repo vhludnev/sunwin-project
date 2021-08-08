@@ -1,10 +1,10 @@
 ## Balcony glazing website
 
-- javascript
-- countdow, calculator
-- slick slider
-- bootstrap css, animate css
-- form, validation
-- gulp
+- Javascript
+- Countdown, Calculator
+- Slick slider
+- Bootstrap css, Animate css
+- Form, Validation
+- Gulp
 
 [Check website](https://sunwin.netlify.app/)
