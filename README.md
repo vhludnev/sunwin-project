@@ -7,4 +7,4 @@
 - form, validation
 - gulp
 
-[Check website](https://sunwin.netlify.app/)
+[Check website](https://sunwin-project.netlify.app/)
